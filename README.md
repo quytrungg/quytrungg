@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quy Trung Mai
-- 👀 I’m interested in playing games
+- 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning computer science at HCMUS
 - 💞️ I’m looking to collaborate on code projects
 - 📫 How to reach me:
