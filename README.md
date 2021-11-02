@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quy Trung Mai
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning computer science at HCMUS
-- 💞️ I’m looking to collaborate on code projects
+- 💞️ I’m looking forward to collaborating on code projects
 - 📫 How to reach me:
   + Instagram: @quytrungg
   + Email: albertmai1912@gmail.com | mqtrung20@clc.fitus.edu.vn | 20127370@student.hcmus.edu.vn
