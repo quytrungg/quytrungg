@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Quy Trung Mai
-- 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning computer science at HCMUS
-- 💞️ I’m looking forward to collaborating on code projects
+- 👋 Hi, I’m Quy-Trung Mai
+- 👀 I’m interested in Coding, software Engineering and Data Science
+- 🌱 I’m currently a junior studying computer science at HCMUS
+- 💞️ I’m looking forward to working as a Data Scientist
 - 📫 How to reach me:
-  + Instagram: @quytrungg
-  + Email: albertmai1912@gmail.com | mqtrung20@clc.fitus.edu.vn | 20127370@student.hcmus.edu.vn
-  + Facebook: https://www.facebook.com/quytrungmai.albertmai.1912 (Quý Trung)
+  - Linkedin: http://linkedin.com/in/quytrung-mai/
+  - Gitlab: https://git.younetmedia.com/trungmq
+  - Email: mqtrung20@clc.fitus.edu.vn
+  - - Facebook: facebook.com/quytrungmai.albertmai.1912
+  - Instagram: @quytrungg
 
 <!---
 quytrungg/quytrungg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
