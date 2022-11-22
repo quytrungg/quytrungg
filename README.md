@@ -6,7 +6,7 @@
   - Linkedin: http://linkedin.com/in/quytrung-mai/
   - Gitlab: https://git.younetmedia.com/trungmq
   - Email: mqtrung20@clc.fitus.edu.vn
-  - - Facebook: facebook.com/quytrungmai.albertmai.1912
+  - Facebook: facebook.com/quytrungmai.albertmai.1912
   - Instagram: @quytrungg
 
 <!---
